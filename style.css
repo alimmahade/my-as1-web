@@ -190,6 +190,7 @@ border-left: none;
 .image-sec img{
   height: 130px;
   width: 120px;
+  margin: auto;
               }
 .image-sec p{
   color: red;
